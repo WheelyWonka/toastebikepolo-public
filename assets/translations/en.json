@@ -314,20 +314,28 @@
     "close": "Close",
     "status": {
       "waiting_for_payment": "Waiting for payment",
+      "to_produce": "To produce",
+      "to_send": "To send",
+      "done": "Shipped",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded",
       "payment_received": "Payment received",
       "processing": "Processing",
       "shipped": "Shipped",
       "delivered": "Delivered",
-      "cancelled": "Cancelled",
       "pending": "Pending"
     },
     "statusDescription": {
       "waiting_for_payment": "We're waiting for your payment to process your order.",
+      "to_produce": "Your order is being manufactured and prepared.",
+      "to_send": "Your order is ready and waiting to be shipped.",
+      "done": "Your order has been shipped and is on its way!",
+      "cancelled": "This order has been cancelled.",
+      "refunded": "This order has been refunded.",
       "payment_received": "Payment received! We're preparing your order.",
       "processing": "Your order is being prepared for shipping.",
       "shipped": "Your order has been shipped and is on its way!",
       "delivered": "Your order has been delivered successfully.",
-      "cancelled": "This order has been cancelled.",
       "pending": "Your order is being processed."
     }
   }
